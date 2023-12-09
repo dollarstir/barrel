@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+wvgbc.com	TRUE	/	FALSE	1999999999	crumb	BaekO8A4yZywMDA0YjJjOGUyNGYwZTY5NGJkOGY5MTFmYTJhYWY1
+
